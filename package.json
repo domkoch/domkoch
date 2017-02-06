@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/domkoch/domkoch/issues"
   },
-  "homepage": "https://github.com/domkoch/domkoch#readme"
+  "homepage": "https://github.com/domkoch/domkoch#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
